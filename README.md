@@ -22,7 +22,7 @@
 
 ## 3. Visuals
 
-URL to app deployed to Render: 
+URL of app deployed to Render: 
 
 [JATE text editor](https://jate-text-editor-10.onrender.com)
 
