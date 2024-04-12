@@ -1,1 +1,1 @@
-# spare
+# Text Editor Starter Code
