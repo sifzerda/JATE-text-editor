@@ -24,7 +24,13 @@
 
 URL to app deployed to Render: 
 
-SCREENSHOTS
+[JATE text editor](https://jate-text-editor-10.onrender.com)
+
+Screenshot
+
+![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/2c2cfa85-f979-451e-ab2a-3d43df68b7fd)
+
+![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/5a123203-d3b0-4222-b339-cb153e7ad662)
 
 ## 4. Installation
 
