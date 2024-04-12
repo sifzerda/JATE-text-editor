@@ -4,7 +4,7 @@ import { header } from './header';
 
 export default class {
   constructor() {
-    const localData = localStorage.getItem('content');
+    const localData = localStorage.getItem('content') || [];
 
     // check if CodeMirror is loaded
     if (typeof CodeMirror === 'undefined') {
@@ -12,7 +12,7 @@ export default class {
     }
 
     this.editor = CodeMirror(document.querySelector('#main'), {
-      value: '',
+      value: header,
       mode: 'javascript',
       theme: 'monokai',
       lineNumbers: true,
