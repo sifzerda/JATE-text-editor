@@ -32,6 +32,10 @@ Screenshot
 
 ![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/5a123203-d3b0-4222-b339-cb153e7ad662)
 
+![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/c07649d8-f17e-497b-accb-ee7e4ca7e161)
+
+![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/97468b2f-1505-41ee-ba64-cc92919946be)
+
 ## 4. Installation
 
 - <span style="color:yellow">npm install i</span> to get dependencies
