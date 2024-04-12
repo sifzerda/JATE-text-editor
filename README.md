@@ -34,7 +34,7 @@ Screenshot
 
 ![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/c07649d8-f17e-497b-accb-ee7e4ca7e161)
 
-![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/97468b2f-1505-41ee-ba64-cc92919946be)
+![image](https://github.com/sifzerda/JATE-text-editor/assets/139626561/06981819-b9e4-4c02-a1d7-eb085e6787f2)
 
 ## 4. Installation
 
