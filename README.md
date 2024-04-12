@@ -44,7 +44,7 @@ Screenshot
 
 ## 5. Usage
 
-This is a text editor which has been updated to use PWA strategies to provide an accessible, fast and secure program for users. It uses webpack to enhance optimization, IndexedDB for storage and service workers to provide offline accessibility.
+This is a text editor which can record and save notes, and has offline interface display and functionality using cache plugins and a service worker. Text is saved into indexedDB keys and also local storage and can be retrieved later. 
 
 ## 6. Support
 
