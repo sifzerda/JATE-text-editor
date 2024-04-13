@@ -40,7 +40,7 @@ Screenshot
 
 
 ```diff
-! npm install i
+ npm install i
 ```
 ```diff
 ! npm run build
