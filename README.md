@@ -41,7 +41,11 @@ Screenshot
 
 ```diff
 ! npm install i
+```
+```diff
 ! npm run build
+```
+```diff
 ! npm run start:dev
 ```
 
