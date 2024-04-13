@@ -38,6 +38,13 @@ Screenshot
 
 ## 4. Installation
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 - <span style="color:yellow">npm install i</span> to get dependencies
 - <span style="color:yellow">npm run build</span> to create a local production build of the app (inside 'dist' folder)
 - <span style="color:yellow">npm run start:dev</span> for service worker precaching
