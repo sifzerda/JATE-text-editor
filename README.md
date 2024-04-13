@@ -42,7 +42,7 @@ Screenshot
 - <span style="color:yellow">npm run build</span> to create a local production build of the app (inside 'dist' folder)
 - <span style="color:yellow">npm run start:dev</span> for service worker precaching
 
-* Note: The install button on the app works to download the app onto desktop, but can take a minute or so to load before alert displays.
+<span style="color:lime"> Note: The install button on the app works to download the app onto desktop, but can take a minute or so to load before alert displays. </span>
 
 ## 5. Usage
 
