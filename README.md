@@ -40,13 +40,13 @@ Screenshot
 
 
 ```diff
- npm install i
++ npm install i
 ```
 ```diff
-! npm run build
++ npm run build
 ```
 ```diff
-! npm run start:dev
++ npm run start:dev
 ```
 
 - <span style="color:yellow">npm install i</span> to get dependencies
