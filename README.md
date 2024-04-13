@@ -40,9 +40,9 @@ Screenshot
 
 
 ```diff
-+ npm install i
+- npm install i
 ! npm run build
-- npm run start:dev
++ npm run start:dev
 ```
 
 - <span style="color:yellow">npm install i</span> to get dependencies
