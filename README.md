@@ -42,6 +42,8 @@ Screenshot
 - <span style="color:yellow">npm run build</span> to create a local production build of the app (inside 'dist' folder)
 - <span style="color:yellow">npm run start:dev</span> for service worker precaching
 
+* Note: The install button on the app works to download the app onto desktop, but can take a minute or so to load before alert displays.
+
 ## 5. Usage
 
 This is a text editor which can record and save notes, and has offline interface display and functionality using cache plugins and a service worker. Text is saved into indexedDB keys and also local storage and can be retrieved later. 
